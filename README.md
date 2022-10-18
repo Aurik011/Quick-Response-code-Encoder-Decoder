@@ -3,7 +3,7 @@ This is a QR Code encoder and decoder which can generate a QR code on a defined 
 QR codes saved on the comoputer can be read. 
 
 # Instructions
-pip install qrcode
-pip install pillow
-pip install pyzbar
+pip install qrcode <br />
+pip install pillow <br />
+pip install pyzbar <br />
 
