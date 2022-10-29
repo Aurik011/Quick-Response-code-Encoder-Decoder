@@ -7,3 +7,5 @@ pip install qrcode <br />
 pip install pillow <br />
 pip install pyzbar <br />
 
+# Note
+File path on Mac should be adjusted. For windows, copy-paste directory as is. 
